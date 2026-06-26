@@ -1,0 +1,30 @@
+        /* CSS Styles */
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            text-align: center;
+        }
+
+        header {
+            background-color: #0073e6;
+            color: white;
+            padding: 20px;
+        }
+
+        section {
+            margin: 20px;
+            padding: 20px;
+            border: 1px solid #ddd;
+        }
+
+        .device {
+            display: inline-block;
+            width: 45%;
+            margin: 10px;
+        }
+
+        .device img {
+            width: 100%;
+            height: auto;
+        }
