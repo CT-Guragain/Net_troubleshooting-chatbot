@@ -5,7 +5,7 @@ Also useful for generating README screenshots without live API calls.
 """
 
 DEMO_SCENARIOS = [
-    {
+    {#these are the kewords in the app.py
         "keywords": ["ospf", "exstart", "neighbor stuck"],
         "topic": "OSPF Neighbor Stuck in EXSTART",
         "response": (
