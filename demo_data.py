@@ -9,7 +9,7 @@ DEMO_SCENARIOS = [
         "keywords": ["ospf", "exstart", "neighbor stuck"],
         "topic": "OSPF Neighbor Stuck in EXSTART",
         "response": (
-            "An OSPF neighbor stuck in EXSTART almost always points to an MTU "
+            "An OSPF neighbor stuck in EXSTART almost always points to an MTU "  #this is the first case
             "mismatch between the two routers, since EXSTART is where they "
             "negotiate Database Description (DBD) packet size.\n\n"
             "1. Check the interface MTU on both sides: `show interface <int>` "
