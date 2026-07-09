@@ -3,7 +3,7 @@ Canned network troubleshooting scenarios used as a fallback when the
 Anthropic API is unavailable (no key set, rate-limited, or offline).
 Also useful for generating README screenshots without live API calls.
 """
-
+#I am a certified Forti OS administrator and Sangfor  XDR and HCI 
 DEMO_SCENARIOS = [
     {#these are the kewords in the app.py
         "keywords": ["ospf", "exstart", "neighbor stuck"],
