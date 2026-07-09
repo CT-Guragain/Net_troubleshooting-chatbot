@@ -24,7 +24,7 @@ DEMO_SCENARIOS = [
         ),
     },
     {
-        "keywords": ["fortigate", "ha", "high availability", "not forming"],
+        "keywords": ["fortigate", "ha", "high availability", "not forming"],#Fortigate is also in the help list
         "topic": "FortiGate HA Not Forming",
         "response": (
             "FortiGate HA pairs fail to form for a handful of common reasons. "
