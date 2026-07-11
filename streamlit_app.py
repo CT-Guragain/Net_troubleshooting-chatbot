@@ -31,8 +31,8 @@ SYSTEM_PROMPT = (
 
 TOPIC_SHORTCUTS = {
     "🔥 Firewall": "Help me troubleshoot a firewall policy that's blocking traffic it shouldn't.",
-    "🔒 VPN": "My IPsec VPN tunnel won't establish, help me troubleshoot it.",
-    "🌐 SD-WAN": "An SD-WAN link is flapping between active and standby, how do I diagnose it?",
+    "🔒 VPN": "My IPsec VPN tunnel won't establish, help me troubleshoot it real.",
+    "🌐 SD-WAN": "An SD-WAN link is flapping between active and standby, how do I diagnose it now?",
     "🗂️ Active Directory": "AD replication is failing between two domain controllers, help me troubleshoot.",
 }
 
