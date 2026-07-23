@@ -1,9 +1,9 @@
 """
 Network Troubleshooting Chatbot — Streamlit UI
-
 white, terminal-themed chat interface for network troubleshooting help.
 Tries the live Anthropic API first; falls back to a small demo dataset
-of canned scenarios if no API key is set or the API call fails.
+of canned scenarios if no API key is set or the API call fails. 
+This is a sample AI it will need some more time for fully functional chatbot
 """
 
 import os
