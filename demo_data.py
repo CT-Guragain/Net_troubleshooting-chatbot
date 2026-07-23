@@ -3,7 +3,7 @@ Canned network troubleshooting scenarios used as a fallback when the
 Anthropic API is unavailable (no key set, rate-limited, or offline).
 Also useful for generating README screenshots without live API calls.
 """
-#I am a certified Forti OS administrator and Sangfor  XDR and HCI Cerified 
+#I am a certified Forti OS administrator NSE4 and Sangfor  XDR and HCI Cerified 
 
 DEMO_SCENARIOS = [
     {#these are the kewords in the app.py
@@ -79,7 +79,7 @@ DEMO_SCENARIOS = [
         ),
     },
     {
-        "keywords": ["nat", "port forward", "translation"],
+        "keywords": ["nat", "port forward", "translation", "Central nat", "Security Profiles", "Destination Port"],
         "topic": "NAT / Port Forwarding Not Working",
         "response": (
             "Work through this in layers:\n\n"
